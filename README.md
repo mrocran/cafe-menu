@@ -17,9 +17,9 @@ The project was built with HTML and basic CSS.
     # Prerequisite
 * You need to have git installed in your machine.  
 * A text editor or terminal.  
-* A web browser to view output. 
+* A web browser to view output.  
 
-    # Setup
+# Setup
 Clone this repository to your local machine using the command:   
 https://github.com/mrocran/cafe-menu.git
 
